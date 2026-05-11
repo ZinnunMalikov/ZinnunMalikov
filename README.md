@@ -1,0 +1,1 @@
+Hi, I'm Zinnun, a Math + CS student at Georgia Tech. I'm currently a Machine Learning Engineering Intern at Dassault Systèmes on the Simulation Visualization R&D team, building performance-critical C++ tooling for FEA simulation analysis, with upcoming work applying ML to help interpret simulation results.
